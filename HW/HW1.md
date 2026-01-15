@@ -20,3 +20,7 @@ Cohesion คือ element ที่มี sub-elements ที่ coupled กั
 
 ช่วงเวลา: 23:00 - 43:25 นาที
 YouTube : [A Daily Practice of Empirical Software Design - Kent Beck](https://www.youtube.com/watch?v=yBEcq23OgB4)
+
+<div align="center">
+  <img src="./kent-beck.png" alt="kent-beck" width="600">
+</div>
