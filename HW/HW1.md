@@ -18,6 +18,10 @@ Kent ยกตัวอย่างจาก Facebook ที่มี services �
 
 Cohesion คือ element ที่มี sub-elements ที่ coupled กัน ถ้า sub-elements ใน element เดียวกัน coupled กันอยู่แล้ว มันดีกว่าการที่ coupling กระจายอยู่คนละ file หรือคนละ directory เพราะยิ่ง coupling กระจายตัวมากเท่าไหร่ ค่าใช้จ่ายในการเปลี่ยนแปลงก็ยิ่งสูงขึ้น การเพิ่ม cohesion คือการรวม elements ที่ coupled กันไว้ใกล้ๆ กัน ทำให้ลดต้นทุนในการเปลี่ยนแปลง
 
+<h4>สมการหัวใจหลักของ Kent Beck คือ</h4>
+Design --> Structure --> Cost of Change --> Revenue
+<h4>"โครงสร้างที่ดี ลดต้นทุนการเปลี่ยนแปลง และเพิ่มโอกาสในการทำกำไร"</h4>
+
 ช่วงเวลา: 23:00 - 43:25 นาที
 YouTube : [A Daily Practice of Empirical Software Design - Kent Beck](https://www.youtube.com/watch?v=yBEcq23OgB4)
 
